@@ -1,0 +1,6 @@
+train: /home/user/Desktop/ww/yolov5/train/images
+val: /home/user/Desktop/ww/yolov5/train/images
+
+nc: 4
+names: ['axe', 'umbrella', 'stick', 'cup']
+
